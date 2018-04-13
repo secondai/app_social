@@ -1,0 +1,14 @@
+{
+  "type": "app_base:Qmtesting",
+  "name": "app_social",
+  "data": {
+    "appId": "social",
+    "name": "Social",
+    "release": "production",
+    "version": 1,
+    "releaseNotes": "....",
+    "owner": "secondai",
+    "defaultBranch": "master",
+    "repo": "app_social"
+  }
+}
